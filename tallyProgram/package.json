@@ -1,0 +1,15 @@
+{
+  "name": "tallyProgram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tallyProgram.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
